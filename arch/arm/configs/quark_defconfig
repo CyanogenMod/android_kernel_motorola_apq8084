@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 3.10.54 Kernel Configuration
+# Linux/arm 3.10.80 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_ARM_HAS_SG_CHAIN=y
@@ -1286,7 +1286,7 @@ CONFIG_C55_CTRL=y
 CONFIG_MMI_FACTORY=y
 # CONFIG_MMI_SAR is not set
 CONFIG_ALSA_TO_H2W=y
-CONFIG_DROPBOX=y
+# CONFIG_DROPBOX is not set
 # CONFIG_C2PORT is not set
 
 #
