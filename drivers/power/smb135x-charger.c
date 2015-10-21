@@ -4924,7 +4924,7 @@ static ssize_t force_chg_iusb_show(struct device *dev,
 
 	if (!the_chip) {
 		pr_err("chip not valid\n");
-		ret = -ENODEV;
+		state = -ENODEV;
 		goto end;
 	}
 
